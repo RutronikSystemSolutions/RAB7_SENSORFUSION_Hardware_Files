@@ -9,7 +9,6 @@ Here you may find hardware documents as follows:
 - Schematics, PCB layout, and mechanical drawings
 - BOM: Bill of Materials
 - Assembly drawings
-- Rev1 hardware files
 - Altium Designer Project
 - Gerber Files
 
